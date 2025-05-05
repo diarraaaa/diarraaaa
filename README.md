@@ -9,8 +9,11 @@
 - ⚡ Fun fact: I am fun
 
 My fav repos i worked on:
---------School homework submission  and AI automatic marking  web app: https://github.com/AnnaNdoye/tcpl----------
---------Supermatrix library creation in C: https://github.com/Elhians/projet_langage_c_2025
+
+-School homework submission and AI automatic marking  web app: https://github.com/AnnaNdoye/tcpl
+
+
+-Supermatrix library creation in C: https://github.com/Elhians/projet_langage_c_2025
 <!---
 diarraaaa/diarraaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
